@@ -41,7 +41,7 @@
       "description": null,
       "acceptedFilenameRegex": "^(.*).(?:nds|zip|7z)$",
       "amStartArguments": "-a me.magnum.melonds.LAUNCH_ROM\n-n me.magnum.melonds/.ui.emulator.EmulatorActivity\n-e uri {file.uri}",
-      "killPackageProcesses": false,
+      "killPackageProcesses": true,
       "killPackageProcessesWarning": false,
       "extra": ""
     },
